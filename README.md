@@ -137,10 +137,12 @@ appropriate HTTP status codes:
 
 ## Deployment
 
-The application is deployed using Render and connects
-to a hosted Neon PostgreSQL database.
+The Triviabook API is deployed on Render and uses
+Neon PostgreSQL for persistent database storage.
 
-**Live API URL:** To be added after deployment.
+**Live API:** https://cam-triviabook-api.onrender.com
+
+**Test Endpoint:** https://cam-triviabook-api.onrender.com/triviabook/topics
 
 ## Repository
 
